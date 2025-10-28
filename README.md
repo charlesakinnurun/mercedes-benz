@@ -4,7 +4,7 @@
 ## Overview
 The goal is to predict the time it takes a mercedes-benz given the neccessary parameters. The workflow includes Data loading, Data preprocessing, Feature engineering, Data encoding, Data splitting and lots more.
 
-## Contents
+## Procedures
 - Data Loading
 - Data Preprocessing
     - Handle missing values
